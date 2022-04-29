@@ -13,3 +13,12 @@
     padding: 9px 25px;
     border: none;
 }
+
+.test img {
+    width: 70%;
+}
+
+#my1 {
+    height: 40px;
+    width: 40px;
+}
