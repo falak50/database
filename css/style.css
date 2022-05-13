@@ -22,3 +22,32 @@
     height: 50px;
     width: 70px;
 }
+
+.red {
+    color: red;
+    font-size: larger;
+}
+
+.time {
+    font-size: larger;
+    text-align: center;
+}
+
+.sp {
+    font-size: larger;
+    padding-right: 20px;
+}
+
+.mysec {
+    margin-bottom: 30px;
+}
+
+.link-text {
+    text-decoration: none;
+    color: white;
+}
+
+.body2 {
+    background-color: rgb(252, 247, 248);
+
+}
