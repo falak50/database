@@ -1,5 +1,10 @@
+
 .panda-bg-info {
     background-color: #fceae8;
+}
+
+.liClass{
+    padding: 5px;
 }
 
 .categories img {
@@ -13,7 +18,13 @@
     padding: 9px 25px;
     border: none;
 }
-
+.panda-btn-buy-now1 {
+    color: white;
+    background-color: #597fca;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
 .test img {
     width: 70%;
 }
