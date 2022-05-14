@@ -1,10 +1,10 @@
-
 .panda-bg-info {
-    background-color: #fceae8;
+    /* background-color: #fceae8; */
+    background-color: #fbfacd;
 }
 
 .liClass{
-    padding: 5px;
+    padding: 5PX;
 }
 
 .categories img {
@@ -26,7 +26,7 @@
     border: none;
 }
 .test img {
-    width: 70%;
+    width: 100%;
 }
 
 #my1 {
