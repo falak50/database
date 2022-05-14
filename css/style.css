@@ -11,14 +11,14 @@
     width: 100px;
 }
 
-.panda-btn-buy-now {
+.panda-btn-buy-now1 {
     color: white;
     background-color: #ff4991;
     border-radius: 8px;
     padding: 9px 25px;
     border: none;
 }
-.panda-btn-buy-now1 {
+.panda-btn-buy-now {
     color: white;
     background-color: #597fca;
     border-radius: 8px;
@@ -49,9 +49,6 @@
     padding-right: 20px;
 }
 
-.mysec {
-    margin-bottom: 30px;
-}
 
 .link-text {
     text-decoration: none;
@@ -60,5 +57,41 @@
 
 .body2 {
     background-color: rgb(252, 247, 248);
+
+}
+ /* second page  */
+.Detailmarks{
+   /* color: #49e951d0; */
+   color: rgb(82, 82, 229);
+    border-radius: 4px;
+    padding-left: 4px;
+    padding-right: 4px;   
+}
+.mysec {
+    margin-bottom: 30px;
+    
+}
+
+.green{
+    /* background-color: #53e180 */
+    background: linear-gradient(to bottom,#468E9A, #356C75);
+}
+.text_need{
+    padding-bottom: 170px;
+    padding-top: 80px;
+}
+.dpcolor{
+    color: white;
+}
+.dh1color{
+    color :#ffff84
+}
+.d2ndsecgap{
+    margin-top: 20px;
+}
+
+.linkD{
+   text-decoration: none;
+   color: white;
 
 }
